@@ -1,0 +1,1 @@
+D:\codes\EasyDesk\Electron\electron.exe D:/codes/EasyDesk/ElectronApp/stockApp
