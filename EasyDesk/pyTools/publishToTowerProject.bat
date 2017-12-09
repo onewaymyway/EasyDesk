@@ -1,0 +1,1 @@
+publishTo.py E:/wangwei/codes/laya/libs/war/builderNew/LayaAirEditor/bin
