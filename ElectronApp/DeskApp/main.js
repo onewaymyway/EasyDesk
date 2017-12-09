@@ -19,7 +19,7 @@ function trace(msg)
 }
 app.on('ready', function() {
   mainWindow = new BrowserWindow({
-    width: 600,
+    width: 800,
     height: 400,
     "min-width":300,
 		"min-height":200,
