@@ -1,0 +1,1 @@
+Electron\EasyDesk.exe ElectronApp/DeskApp
